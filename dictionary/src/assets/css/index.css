@@ -1,0 +1,45 @@
+body {
+  color: #f0f0f0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.search {
+  width: 95%;
+  height: 70px;
+  margin: 20px;
+  transition: 0.5s;
+  border-radius: 25px;
+  box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.8);
+  background-color: #121212;
+  -webkit-app-region: drag;
+}
+
+.searchbox {
+  width: 84%;
+  height: 40px;
+  margin: 2.3%;
+  float: left;
+  font-size: 28px;
+  border: none;
+  outline-width: 0;
+  color: #f0f0f0;
+  background-color: #121212;
+  -webkit-app-region: none;
+}
+
+.searchimg {
+  width: 40px;
+  height: 40px;
+  margin: 2.3%;
+}
+
+.itembox {
+  width: 95%;
+  height: 300px;
+  margin: 20px;
+  transition: 0.5s;
+  border-radius: 25px;
+  box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.8);
+  background-color: #121212;
+  -webkit-app-region: drag;
+}
